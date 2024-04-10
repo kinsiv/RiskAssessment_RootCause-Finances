@@ -2,9 +2,9 @@
 Each year, thousands of companies based in America report their annual balance sheet assets, liabilities, and equity totals to the stock exchanges they participate in. This encompasses various performance indicative margins and metrics, such as profit margin, Net Cash Flow Operating, and Net Income or Net Loss. What this presents is of great importance to those involved in HOLX’s management or outside investors who guide their investments from the reported figures. This analysis examines this data at scale to taper the dataset into the key relationships - anomalies included - that exist. Strategic regression models, feature engineering, hypothesis testing, and more are connected with empirical evidence. Descriptive results are extracted, of which communicate the risk of HOLX’s operations while highlighting areas of improvement.
 
 ## Research Questions:
-1. Can Trade Volume and other equity impactful attributes, like Net Income, be accurately included in a Regression model?
-2. Is the deployed model adequate for evaluating a company's annual performance or does it exaggerate losses and gains?
-3. When there is risk associated with the outcomes outlined in yearly statements, is the risk measurable via the model?
+1. Can Trade Volume and other equity impactful attributes, like Net Income, suffice the necessity of having performance predictors?
+2. Is the Regression model adequate for evaluating a company's annual performance or does it exaggerate losses and gains?
+3. When there is problematic balances outlined in a balance statement, is the present and future risk measurable?
 
 ## Actionable & Business Insights:
 *Figures for a 3 year period: 2013, 2014, and 2015.*
