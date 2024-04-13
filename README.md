@@ -1,4 +1,4 @@
-# Risk Analysis of HOLX's Finances, Gathered from the NYSE
+# Risk Assessment & Root Cause Analysis of HOLX's Finances, Data Wrangled from the NYSE
 Each year, thousands of companies based in America report their annual balance sheet assets, liabilities, and equity totals to the stock exchanges they participate in. This encompasses various performance indicative margins and metrics, such as profit margin, Net Cash Flow Operating, and Net Income or Net Loss. What this presents is of great importance to those involved in HOLX’s management or outside investors who guide their investments from the reported figures. This analysis examines this data at scale to taper the dataset into the key relationships - anomalies included - that exist. Strategic regression models, feature engineering, hypothesis testing, and more are connected with empirical evidence. Descriptive results are extracted, of which communicate the risk of HOLX’s operations while highlighting areas of improvement.
 
 ## Research Questions:
