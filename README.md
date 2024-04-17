@@ -10,7 +10,7 @@ Each year, thousands of companies based in America report their annual balance s
 *Figures for a 3 year period: 2013, 2014, and 2015.*
 1. Correlation between Trade Volume and Net Cash Flow Operating suggest HOLX may place in the bottom 19% of companies year-over-year.
 
-![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/ecd990a2-01ab-44d9-83a1-dac83bdbc439)
+![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/fab88d90-91e2-47fa-a192-dd01092b8e4a)
 
 
 
