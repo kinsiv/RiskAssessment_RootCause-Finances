@@ -16,7 +16,7 @@ hist
 
 2. Evidence clarifies HOLX's reported NCFO is 32% likely to underperform the average, affecting Net Income. 
 
-[kde](https://gyazo.com/14a4419f02c3fda3152e89bc6cb66ded)
+![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/2f2fb214-c134-473f-8553-935719ee9a13)
 
 
 
