@@ -16,7 +16,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 2. Evidence clarifies HOLX's reported NCFO is 32% likely to underperform the average, affecting Net Income. 
 
-![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/2f2fb214-c134-473f-8553-935719ee9a13)
+![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/d170a199-5cb1-4562-b44e-cffafc8171f5)
 
 
 
