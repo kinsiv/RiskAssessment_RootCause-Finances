@@ -22,7 +22,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 3. Investors are weary of holding HOLX stocks! The model provided median for Estimated Shares Outstanding is above the overall meadian by 40,000,000.
 
-
+![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/c423a939-f9f0-47ee-89d0-9c9e8946119d)
 
 
 
