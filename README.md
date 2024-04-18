@@ -33,3 +33,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 
 5. HOLX maintains a 17% - 20.5% of benefitting Quick Ratio from Cash and Cash Equivalent surplus. Prioritize these transactions or absolve inventory management inefficiencies to fully capitalize.
+
+
+
+
