@@ -29,7 +29,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
 
-4. A liquidity evaluation to verify ability to pay current liabilities, which are facilitating a 6.6% loss in Quick Ratio for 2015. Rectifying the mismanagement to reproduce 2014 results will net HOLX substantial short-term debit.
+4. A liquidity evaluation to verify ability to pay current liabilities, which are facilitating a 6.6% loss in Quick Ratio for 2015. Rectifying the mismanagement to reproduce 2014 results (see right chart) will net HOLX substantial short-term debit.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/73c7ce17-cb21-4d43-955f-954940f2fbfd)
 
