@@ -32,7 +32,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 
 
-5. HOLX maintains a 17% - 20.5% of benefitting Quick Ratio from Cash and Cash Equivalent surplus. Prioritize these transactions or absolve inventory management inefficiencies to fully capitalize.
+5. HOLX maintains a 17% - 20.5% of benefitting Quick Ratio from Cash and Cash Equivalent surplus. Prioritize these transactions or absolve inventory management inefficiencies to fully capitalize. The orange marker is the median for both variables, to provide the margin of improvement that could realistically be achieved.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/3779520e-46f2-4b6f-a1c2-a48cb77002c8)
 
