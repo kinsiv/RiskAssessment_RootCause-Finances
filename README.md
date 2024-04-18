@@ -8,7 +8,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 ## Actionable & Business Insights:
 *Figures for a 3 year period: 2013, 2014, and 2015.*
-1. Correlation between Trade Volume and Net Cash Flow Operating suggest HOLX may place in the bottom 19% of companies year-over-year. The orange marker is the median for both variables, to provide the margin of improvement that could realistically be achieved.
+1. Correlation between Trade Volume and Net Cash Flow Operating suggest HOLX may place in the bottom 19% of companies year-over-year. The star marker is HOLX's median. The diamond marker is the median for both variables, to provide the margin of improvement that could realistically be achieved.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/3765d0ea-14a7-447e-8c41-8e8dc6c1dfe1)
 
@@ -32,6 +32,6 @@ Each year, thousands of companies based in America report their annual balance s
 
 
 
-5. HOLX's Quick Ratio benefits an additional 17% - 20.5% from Cash over other Current Ratio balances. Absolve these inventory management and other inefficiencies to fully capitalize. The orange marker is the median for both variables, which highlights HOLX's success in accumulating cash.
+5. HOLX's Quick Ratio benefits an additional 17% - 20.5% from Cash over other Current Ratio balances. Absolve these inventory management and other inefficiencies to fully capitalize. The star marker is HOLX's median. The diamond marker is the median for both variables, which highlights HOLX's success in accumulating cash.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/f2af5b45-6e99-4085-ade7-9364c00148a9)
