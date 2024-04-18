@@ -14,13 +14,13 @@ Each year, thousands of companies based in America report their annual balance s
 
 
 
-2. Evidence clarifies HOLX's reported NCFO is 32% likely to underperform the average, affecting Net Income. 
+2. Evidence clarifies HOLX's reported NCFO is 32% likely to underperform the average. When short-term obligations are causing a strain on cash, the reported Net Income is increasingly likely to report as Net Loss.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/d170a199-5cb1-4562-b44e-cffafc8171f5)
 
 
 
-3. Investors are weary of holding HOLX stocks! The model provided median for Estimated Shares Outstanding is above the overall meadian by 40,000,000. This has led to a staggering amount of trade volume for HOLX.
+3. Investors are weary of holding HOLX stocks! Their Estimated Shares Outstanding is above the overall by 40,000,000. This has led to a staggering amount of trade volume considering HOLX's size.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/c423a939-f9f0-47ee-89d0-9c9e8946119d)
 
