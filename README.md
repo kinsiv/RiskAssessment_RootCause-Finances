@@ -28,7 +28,7 @@ Each year, thousands of companies based in America report their annual balance s
 
 4. A liquidity evaluation to verify ability to pay current liabilities, which are facilitating a 6.6% loss in Quick Ratio.
 
-stacked bar 
+![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/73c7ce17-cb21-4d43-955f-954940f2fbfd)
 
 
 
