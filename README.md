@@ -13,28 +13,36 @@ Each year, thousands of companies based in America report their annual balance s
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/3765d0ea-14a7-447e-8c41-8e8dc6c1dfe1)
 
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
+<div align="center">
+    <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
+</div>
 
 2. Evidence clarifies HOLX's reported NCFO is 32% likely to underperform the average. When short-term obligations are causing a strain on cash, the reported Net Income is increasingly likely to report as Net Loss.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/d170a199-5cb1-4562-b44e-cffafc8171f5)
 
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
+<div align="center">
+    <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
+</div>
 
 3. Investors are weary of holding HOLX stocks! Their Estimated Shares Outstanding is above the overall by 40,000,000. This has led to a staggering amount of trade volume considering HOLX's size.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/b1e50ca3-905a-4891-a04b-53977750c485)
 
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
+<div align="center">
+    <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
+</div>
 
 4. A liquidity evaluation to verify ability to pay current liabilities, which are facilitating a 6.6% loss in Quick Ratio for 2015. Rectifying the mismanagement to reproduce 2014 results (see right chart) will net HOLX substantial short-term debit.
 
 ![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/73c7ce17-cb21-4d43-955f-954940f2fbfd)
 
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
+<div align="center">
+    <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
+</div>
 
 5. HOLX's Quick Ratio benefits an additional 17% - 20.5% from Cash over other Current Ratio balances. Absolve these inventory management and other inefficiencies to fully capitalize. The star marker is HOLX's median. The diamond marker is the overall median, which highlights HOLX's success in accumulating cash.
 
