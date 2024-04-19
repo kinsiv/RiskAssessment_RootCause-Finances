@@ -46,4 +46,5 @@ Each year, thousands of companies based in America report their annual balance s
 
 5. HOLX's Quick Ratio benefits an additional 17% - 20.5% from Cash over other Current Ratio balances. Absolve these inventory management and other inefficiencies to fully capitalize. The star marker is HOLX's median. The diamond marker is the overall median, which highlights HOLX's success in accumulating cash.
 
-![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/f2af5b45-6e99-4085-ade7-9364c00148a9)
+![image](https://github.com/kinsiv/RiskAssessment_RootCause_Finances/assets/89998643/f02f61fd-edc6-4561-88ca-4f11db08fbfe)
+
